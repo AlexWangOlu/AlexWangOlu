@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+the+half+of+FiveM+that+runs+unseen;Qbox+%C2%B7+ox_inventory+%C2%B7+ox_lib;Lua+%2B+TypeScript+for+live+servers" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=I+build+the+unseen+half+of+FiveM;Qbox+%C2%B7+ox_inventory+%C2%B7+ox_lib;Lua+%2B+TypeScript+for+live+servers" alt="typing" />
 
 # Alex
 
@@ -12,9 +12,12 @@
 
 <img src="https://img.shields.io/badge/FiveM-server%20systems-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Qbox-core-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ox__inventory-item%20pipelines-2C2D72?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ox__inventory-items-2C2D72?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NUI-CEF%20%2B%20React-61DAFB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/zh--CN-localization-critical?style=for-the-badge" />
+
+<br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=lua,ts,js,nodejs,react,tailwind,mysql,redis,git,linux,docker,vscode&theme=dark" alt="stack" />
 
